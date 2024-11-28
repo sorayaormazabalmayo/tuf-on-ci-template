@@ -7,7 +7,7 @@
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2025-11-28T13:28:26Z",
+  "expires": "2025-11-28T13:37:33Z",
   "spec_version": "1.0.31",
   "targets": {
    "file1.txt": {
@@ -27,9 +27,15 @@
      "sha256": "5b3513f580c8397212ff2c8f459c199efc0c90e4354a5f3533adf0a3fff3a530"
     },
     "length": 9
+   },
+   "file4.txt": {
+    "hashes": {
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "length": 0
    }
   },
-  "version": 3,
+  "version": 4,
   "x-tuf-on-ci-expiry-period": 365,
   "x-tuf-on-ci-signing-period": 60
  }
