@@ -1,1 +1,1 @@
-Version 1: file1.txt. This could be a SW version. 
+artifact
